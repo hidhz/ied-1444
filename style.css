@@ -1,0 +1,21 @@
+.box {
+  background-color: hsl(199, 88.7%, 48.4%);
+  color: white;
+  margin: 100px auto;
+  padding: 40px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+#tombol {
+  background-color: hsl(199, 88.7%, 48.4%);
+  color: white;
+  padding: 10px 7px;
+  border-radius: 7px;
+  border: none;
+  margin: 150px;
+}
+a {
+  color: dark;
+  text-decoration: none;
+}
